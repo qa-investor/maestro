@@ -1,4 +1,4 @@
-# Mobile testing
+# Mobile testings
 #SETUP
 1. Run the command `xcodebuild -downloadPlatform iOS` in your computer terminal to download and install iOS Simulator runtimes
 2. Run a test, for example `maestro test onboarding-ios.yaml
